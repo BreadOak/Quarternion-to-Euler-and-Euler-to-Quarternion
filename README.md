@@ -1,1 +1,1 @@
-# Quarternion-to-Euler-and-Euler-to-Quarternion
+# Quarternion to Euler and Euler to Quarternion
